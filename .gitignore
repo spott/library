@@ -1,0 +1,14 @@
+# ignore tag files:
+tags
+
+# ignore cscope files:
+cscope.out
+
+#ignore swqp files:
+*.swp
+
+#ignore objects and archives:
+*.[oa]
+
+#ignore bin file
+bin
